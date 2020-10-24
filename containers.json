@@ -1,0 +1,9 @@
+[
+  {
+    "Description": "Centos 7 OVA",
+    "Format": "ova",
+    "UserBucket": {
+        "S3Bucket": "testingclass45",
+        "S3Key": "server1.ova"
+    }
+}]
